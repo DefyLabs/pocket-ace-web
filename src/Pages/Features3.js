@@ -17,13 +17,13 @@ const Features3 = () => (
         <div className="mt-5 sm:mt-10 mx-5 font-nunito w-mobile">
           <div className="text-lg font-black">Effective</div>
           <div className="text-sm text-type leading-loose">
-            Powered by trusted material from Pagoda for quality assurance.
+            Powered by trusted material from Pagoda Books for quality assurance.
           </div>
         </div>
         <div className="mt-5 sm:mt-10 mx-5 w-mobile">
           <div className="text-lg font-bold">효과적</div>
           <div className="text-sm text-type leading-loose">
-            파고다로부터 신뢰받는 자료로 믿을수 있는 양질의 정보 제공.
+            Pagoda Books로부터 신뢰받는 자료로 믿을수 있는 양질의 정보 제공.
           </div>
         </div>
       </div>
