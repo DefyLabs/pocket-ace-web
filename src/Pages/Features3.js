@@ -1,7 +1,7 @@
 import React from "react";
 import backgroundImage from "../assets/images/bg_features_2.svg";
 
-const Features2 = () => (
+const Features3 = () => (
   <div
     className="section bg-cover"
     style={{ backgroundImage: `url(${backgroundImage})` }}
@@ -60,4 +60,4 @@ const Features2 = () => (
   </div>
 );
 
-export default Features2;
+export default Features3;
