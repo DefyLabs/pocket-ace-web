@@ -9,6 +9,7 @@ module.exports = {
       },
       maxWidth: {
         mobile: "300px",
+        "8/10": "80%",
       },
       width: {
         mobile: "300px",
