@@ -47,6 +47,12 @@ const Company = () => (
           </div>
         </div>
       </div>
+      <div className="text-lg font-black text-secondary font-nunito mt-10 sm:mt-20">
+        Contact Us
+      </div>
+      <div className="text-primary font-nunito">
+        <a href="mailto:rich@defylabs.io">rich@defylabs.io</a>
+      </div>
     </div>
   </div>
 );
