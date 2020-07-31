@@ -8,10 +8,10 @@ const Company = () => (
   >
     <div className="w-full text-center text-secondary">
       <div className="font-extrabold text-4xl sm:text-6xl text-secondary font-nunito">
-        Work at Pocket Ace.
+        Join the team.
       </div>
       <div className="hidden sm:block text-3xl sm:text-5xl font-noto-sans-kr text-secondary">
-        포켓 에이스에서 작업합니다.
+        팀에 합류하세요.
       </div>
       <div className="w-full text-left flex flex-row flex-wrap justify-center">
         <div className="mt-10 mx-5 font-nunito w-mobile">
