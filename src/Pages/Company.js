@@ -14,26 +14,24 @@ const Company = () => (
         팀에 합류하세요.
       </div>
       <div className="w-full text-left flex flex-row flex-wrap justify-center">
-            At Pocket Ace, we’re dedicated to creating a fresh, innovative
-            approach to educational technology. We believe in our vision of
-            blending fun and learning in an accessible way without compromising
-            academic integrity.
         <div className="mt-5 sm:mt-10 mx-5 font-nunito w-mobile">
           <div
             className="text-sm text-white sm:leading-loose"
             style={{ textIndent: "1rem" }}
           >
+            At Pocket Ace, we believe in our vision of blending fun and learning
+            in an innovative, accessible way. We’re seeking talented,
+            like-minded people who share our passion and energy.
           </div>
         </div>
-            Pocket Ace에서 우리는 교육 기술에 대한 혁신적이고 신선한 접근법을
-            만드는 데 전념하고 있습니다. 우리는 순수 학문적인 부분을 훼손하지
-            않고 접근 가능한 방법 안에서 재미와 공부를 융합하는 우리의 비전을
-            믿습니다.
         <div className="mt-5 sm:mt-10 mx-5 w-mobile">
           <div
             className="text-sm text-white sm:leading-loose"
             style={{ textIndent: "1rem" }}
           >
+            우리는 재미와 학습을 보다 혁신적이고 접근하기 쉬운 방법으로
+            녹여내고자 하는 우리의 꿈을 믿습니다. 우리는 우리의 열정과 에너지를
+            공유할 생각이 비슷한 재능있는 사람들을 찾고 있습니다.
           </div>
         </div>
       </div>
