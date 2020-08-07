@@ -11,6 +11,7 @@ import Company from "./Pages/Company";
 function App() {
   return (
     <ReactFullpage
+      licenseKey={"$ko8JTT^q6"}
       render={() => {
         return (
           <ReactFullpage.Wrapper>
