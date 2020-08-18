@@ -55,7 +55,7 @@ const Company = () => (
         Contact Us
       </div>
       <div className="text-primary font-nunito">
-        <a href="mailto:rich@defylabs.io">rich@defylabs.io</a>
+        <a href="mailto:contact@pocketace.io">contact@pocketace.io</a>
       </div>
     </div>
   </div>
