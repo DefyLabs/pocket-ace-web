@@ -37,15 +37,15 @@ const Company = () => (
       </div>
       <div className="w-full text-left flex flex-row flex-wrap justify-center">
         <div className="mt-5 sm:mt-10 mx-5 font-nunito w-mobile">
-          <div className="text-lg text-primary font-black">
-            Senior Developer
-          </div>
+          <div className="text-lg text-primary font-black">Data Scientist</div>
           <div className="text-sm text-white sm:leading-loose">
             Seoul, South Korea or Remote
           </div>
         </div>
         <div className="mt-5 sm:mt-10 mx-5 w-mobile">
-          <div className="text-lg text-primary font-bold">선임 개발자</div>
+          <div className="text-lg text-primary font-bold">
+            데이터 사이언티스트
+          </div>
           <div className="text-sm text-white sm:leading-loose">
             서울, 한국 또는 리모트
           </div>
