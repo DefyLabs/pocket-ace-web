@@ -79,18 +79,6 @@ const Features3 = () => (
           </div>
         </div>
       </div>
-      <div className="text-lg font-black text-secondary font-nunito mt-5 sm:mt-20">
-        Powered By:
-      </div>
-      <picture>
-        <source srcSet={`${PagodaBooks} 1x`} media="(max-width: 360px)" />
-        <img
-          srcSet={`${PagodaBooksMedium} 2x, ${PagodaBooksHigh} 3x`}
-          alt=""
-          style={{ maxWidth: "360px" }}
-          className="mx-auto"
-        />
-      </picture>
     </div>
   </div>
 );

@@ -55,7 +55,7 @@ const Company = () => (
         Contact Us
       </div>
       <div className="text-primary font-nunito">
-        <a href="mailto:contact@pocketace.io">contact@pocketace.io</a>
+        <a href="mailto:contact@pocketace.io">info@pocketace.io</a>
       </div>
     </div>
   </div>
