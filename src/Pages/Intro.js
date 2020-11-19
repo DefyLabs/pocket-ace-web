@@ -24,10 +24,7 @@ const Intro = () => (
           High={LogoHigh}
           className="w-mobile mx-auto"
         />
-        <div className="text-primary font-extrabold text-4xl sm:text-6xl font-nunito">
-          Treat your brain.
-        </div>
-        <div className="hidden sm:block text-secondary text-3xl sm:text-5xl font-noto-sans-kr">
+        <div className="text-secondary text-3xl sm:text-5xl">
           당신의 뇌를 관리하세요.
         </div>
         <div className="flex items-center justify-center mt-6">
