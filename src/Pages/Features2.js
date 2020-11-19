@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/images/bg_company.svg";
+import backgroundImage from "../assets/images/bg_black.svg";
 
 const Features1 = () => (
   <div

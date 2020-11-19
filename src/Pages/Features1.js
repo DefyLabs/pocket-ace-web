@@ -1,6 +1,6 @@
 import React from "react";
-import backgroundImage from "../assets/images/bg_features_1.svg";
 import { ReactComponent as Feature } from "../assets/images/features_1.svg";
+import backgroundImage from "../assets/images/bg_secondary.svg";
 
 const Features1 = () => (
   <div

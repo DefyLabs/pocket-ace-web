@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/images/bg_intro.svg";
+import backgroundImage from "../assets/images/bg_black.svg";
 import Logo from "../assets/images/logo.png";
 import LogoMedium from "../assets/images/logo@2x.png";
 import LogoHigh from "../assets/images/logo@3x.png";

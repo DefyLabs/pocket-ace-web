@@ -1,8 +1,8 @@
 import React from "react";
-import backgroundImage from "../assets/images/bg_features_2.svg";
 import PagodaBooks from "../assets/images/pagodaBooks.png";
 import PagodaBooksMedium from "../assets/images/pagodaBooks@2x.png";
 import PagodaBooksHigh from "../assets/images/pagodaBooks@3x.png";
+import backgroundImage from "../assets/images/bg_primary.svg";
 
 const Features3 = () => (
   <div
