@@ -6,24 +6,28 @@ import Intro from "./Pages/Intro";
 import Features1 from "./Pages/Features1";
 import Features2 from "./Pages/Features2";
 import Features3 from "./Pages/Features3";
-import Company from "./Pages/Company";
+import Contact from "./Pages/Contact";
+import Features4 from "./Pages/Features4";
 
 function App() {
   return (
-    <ReactFullpage
-      licenseKey={"$ko8JTT^q6"}
-      render={() => {
-        return (
-          <ReactFullpage.Wrapper>
-            <Intro />
-            <Features1 />
-            <Features2 />
-            <Features3 />
-            <Company />
-          </ReactFullpage.Wrapper>
-        );
-      }}
-    />
+    <div className="font-noto-sans-kr">
+      <ReactFullpage
+        licenseKey={"$ko8JTT^q6"}
+        render={() => {
+          return (
+            <ReactFullpage.Wrapper>
+              <Intro />
+              <Features1 />
+              <Features2 />
+              <Features3 />
+              <Features4 />
+              <Contact />
+            </ReactFullpage.Wrapper>
+          );
+        }}
+      />
+    </div>
   );
 }
 
