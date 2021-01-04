@@ -9,7 +9,9 @@ import AppStoreBadgeHigh from "../assets/images/appStoreBadge@3x.png";
 import PlayStoreBadge from "../assets/images/playStoreBadge.png";
 import PlayStoreBadgeMedium from "../assets/images/playStoreBadge@2x.png";
 import PlayStoreBadgeHigh from "../assets/images/playStoreBadge@3x.png";
+import introVideo from "../assets/videos/PocketAce_2.mp4";
 import Picture from "../Components/Picture";
+import Video from "../Components/Video";
 
 const Intro = () => (
   <div
@@ -24,7 +26,12 @@ const Intro = () => (
           High={LogoHigh}
           className="w-mobile mx-auto"
         />
-        <div className="text-secondary text-3xl sm:text-5xl">
+
+        <Video 
+          src={introVideo}
+        />
+
+        <div className="text-secondary text-3xl sm:text-5xl mt-5">
           당신의 뇌를 관리하세요.
         </div>
         <div className="flex items-center justify-center mt-6">
